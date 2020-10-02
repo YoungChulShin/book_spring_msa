@@ -1,9 +1,6 @@
 plugins {
-    id 'org.springframework.boot' version "${spring_boot_version}"
     id 'java'
 }
-
-
 
 group 'study.spring'
 version '1.0-SNAPSHOT'
